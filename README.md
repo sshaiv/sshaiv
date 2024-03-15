@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sshaiv/](https://github.com/sshaiv/)
 
-- 💬 Ask me about **android applications , frontend(HTMl , CSS ) ,Express**
+- 💬 Ask me about **android applications (Flutter,Firebase) , frontend(HTMl , CSS ) ,Express**
 
 - 📫 How to reach me **shraddhashaiv@gmail.com**
 
