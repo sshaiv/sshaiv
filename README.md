@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shraddhashaiv@gmail.com**
 
-- 📄 Know about my experiences [https://sshaiv.github.io/sshaiv_portfolio-Resume-/](https://sshaiv.github.io/sshaiv_portfolio-Resume-/)
+- 📄 Know about my experiences [https://sshaiv.github.io/sshaiv_portfolio-Resume-/](https://sshaiv-portfolio3692.netlify.app/)
 
 - ⚡ Fun fact **I think I'm *Loquacious***
 
