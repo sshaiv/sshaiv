@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shraddha Shaiv</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🌱 I’m currently learning **full stack android development**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sshaiv/](https://github.com/sshaiv/)
 
-- 💬 Ask me about **android applications (Flutter,Firebase) , frontend(HTML , CSS ) , Express**
+- 💬 Ask me about **android applications (Flutter) , frontend(HTML , CSS ) , famework(Node.js , Express.js) , backend(MongoDB , SQL) **
 
-- 📫 How to reach me **shraddhashaiv@gmail.com**
+- 📫 How to reach me **shaivshraddha@gmail.com**
 
 - 📄 Know about my experiences [https://sshaiv-portfolio3692.netlify.app/](https://sshaiv-portfolio3692.netlify.app/)
 
