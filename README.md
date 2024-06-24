@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shraddha Shaiv</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Web - App developer from India</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sshaiv/](https://github.com/sshaiv/)
 
-- 💬 Ask me about **android applications (Flutter) , frontend(HTML , CSS ) , famework(Node.js , Express.js) , backend(MongoDB , SQL) **
+- 💬 Ask me about **android applications (Flutter) ,
+- WEB - frontend(HTML , CSS ) , famework(Node.js , Express.js) , backend(MongoDB , SQL) **
 
 - 📫 How to reach me **shaivshraddha@gmail.com**
 
@@ -52,7 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express.js/express.js-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
