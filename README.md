@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Shraddha Shaiv</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | Flutter & Next.js Enthusiast | Software Programmer</h3>
+<p align="center">A passionate tech explorer, solving problems one line of code at a time.</p>
 
 ---
 
 ### 🌟 About Me
 
-- 🌱 I’m currently working as a **Full Stack Developer**  
-- 💻 All of my projects are available at [My GitHub](https://github.com/sshaiv/)  
-- 💬 Ask me about: **Next.js, Flutter, MySQL, Python, C++, DSA**  
-- 📫 Reach me at: **shaivshraddha@gmail.com**  
-- 📄 Know about my experiences: [Portfolio](https://sshaiv-portfolio3692.netlify.app/)  
-- ⚡ **Fun fact:** New tech instantly grabs my attention—no matter how different from my skills—and I just *have* to explore it (until I’m off chasing the next one)!
-- ✨ **A quick and curious learner — I love exploring new skills and treat every technology as an exciting hobby to master.**
+I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer & Software Programmer**.
+
+💡 I’m deeply passionate about:
+- Building full-stack apps using **Next.js, Node.js, and Flutter**
+- Crafting optimized UIs with **TailwindCSS & Bootstrap**
+- Working with **databases** like MySQL, MongoDB, and SQLite
+- Exploring **Python, C++, and DSA** to deepen my logic
+
+🚀 I love picking up new tech—even if it’s far from my stack. Every tool is a new toy!  
+✨ Curiosity is my fuel; learning is my playground.  
+
+📫 Reach me at: **shaivshraddha@gmail.com**  
+🔗 Know more: [Portfolio](https://sshaiv-portfolio3692.netlify.app/) | [GitHub](https://github.com/sshaiv/)
 
 ---
 
@@ -19,39 +26,58 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shraddha-shaiv/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:shaivshraddha@gmail.com" target="_blank" title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/u/sshaiv/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow"/>
   </a>
 </p>
 
+---
+
+### 🧠 My Tech Stack
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🛠️ Languages and Tools
-
-| ![Next.js](https://cdn.simpleicons.org/next.js/000000) | ![Tailwind](https://cdn.simpleicons.org/tailwindcss/06B6D4) | ![Flutter](https://cdn.simpleicons.org/flutter/02569B) | ![MySQL](https://cdn.simpleicons.org/mysql/4479A1) | ![C++](https://cdn.simpleicons.org/cplusplus/00599C) | ![DSA](https://cdn.simpleicons.org/code/000000) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <sub>Next.js</sub> | <sub>Tailwind CSS</sub> | <sub>Flutter</sub> | <sub>MySQL</sub> | <sub>C++</sub> | <sub>DSA</sub> |
-
-| ![Python](https://cdn.simpleicons.org/python/3776AB) | ![Git](https://cdn.simpleicons.org/git/F05032) | ![GitHub](https://cdn.simpleicons.org/github/181717) | ![VS Code](https://cdn.simpleicons.org/visualstudiocode/007ACC) | ![MongoDB](https://cdn.simpleicons.org/mongodb/47A248) | ![SQLite](https://cdn.simpleicons.org/sqlite/003B57) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <sub>Python</sub> | <sub>Git</sub> | <sub>GitHub</sub> | <sub>VS Code</sub> | <sub>MongoDB</sub> | <sub>SQLite</sub> |
-
-| ![Node.js](https://cdn.simpleicons.org/node.js/339933) | ![Express](https://cdn.simpleicons.org/express/000000) | ![React](https://cdn.simpleicons.org/react/61DAFB) | ![Bootstrap](https://cdn.simpleicons.org/bootstrap/7952B3) | ![HTML5](https://cdn.simpleicons.org/html5/E34F26) | ![CSS3](https://cdn.simpleicons.org/css3/1572B6) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <sub>Node.js</sub> | <sub>Express</sub> | <sub>React</sub> | <sub>Bootstrap</sub> | <sub>HTML5</sub> | <sub>CSS3</sub> |
-
-
-
 ### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshaiv&show_icons=true&locale=en&layout=compact" alt="sshaiv" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default" alt="Shraddha's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sshaiv&theme=default&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
