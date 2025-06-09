@@ -30,8 +30,6 @@
 
 ### 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
 | ![Next.js](https://cdn.simpleicons.org/next.js/000000) | ![Tailwind](https://cdn.simpleicons.org/tailwindcss/06B6D4) | ![Flutter](https://cdn.simpleicons.org/flutter/02569B) | ![MySQL](https://cdn.simpleicons.org/mysql/4479A1) | ![C++](https://cdn.simpleicons.org/cplusplus/00599C) | ![DSA](https://cdn.simpleicons.org/code/000000) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <sub>Next.js</sub> | <sub>Tailwind CSS</sub> | <sub>Flutter</sub> | <sub>MySQL</sub> | <sub>C++</sub> | <sub>DSA</sub> |
