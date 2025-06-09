@@ -30,46 +30,100 @@
 
 ### 🛠️ Languages and Tools
 
-<p>
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+<p style={{ display: 'flex', gap: '15px', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+
+  {/* Next.js */}
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+
+  {/* Tailwind CSS */}
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+
+  {/* Flutter */}
+  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" />
   </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+
+  {/* MySQL */}
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+
+  {/* C++ */}
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer" title="C++" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+
+  {/* DSA (symbolic code icon) */}
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer" title="Data Structures & Algorithms" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/code/000000" alt="DSA" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+
+  {/* Python */}
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+
+  {/* Git */}
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" />
   </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+
+  {/* GitHub */}
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+
+  {/* VS Code */}
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+
+  {/* MongoDB */}
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+
+  {/* SQLite */}
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer" title="SQLite" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" />
   </a>
+
+  {/* Node.js */}
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" />
+  </a>
+
+  {/* Express */}
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" title="Express" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" />
+  </a>
+
+  {/* React */}
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" />
+  </a>
+
+  {/* Bootstrap */}
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" title="Bootstrap" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" />
+  </a>
+
+  {/* HTML5 */}
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer" title="HTML5" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" />
+  </a>
+
+  {/* CSS3 */}
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" title="CSS3" style={{ display: 'inline-block', width: 40, height: 40 }}>
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" />
+  </a>
+
 </p>
 
----
 
 ### 📊 GitHub Stats
 
