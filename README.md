@@ -32,79 +32,17 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; background:#fff; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
+| ![Next.js](https://cdn.simpleicons.org/next.js/000000) | ![Tailwind](https://cdn.simpleicons.org/tailwindcss/06B6D4) | ![Flutter](https://cdn.simpleicons.org/flutter/02569B) | ![MySQL](https://cdn.simpleicons.org/mysql/4479A1) | ![C++](https://cdn.simpleicons.org/cplusplus/00599C) | ![DSA](https://cdn.simpleicons.org/code/000000) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <sub>Next.js</sub> | <sub>Tailwind CSS</sub> | <sub>Flutter</sub> | <sub>MySQL</sub> | <sub>C++</sub> | <sub>DSA</sub> |
 
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
+| ![Python](https://cdn.simpleicons.org/python/3776AB) | ![Git](https://cdn.simpleicons.org/git/F05032) | ![GitHub](https://cdn.simpleicons.org/github/181717) | ![VS Code](https://cdn.simpleicons.org/visualstudiocode/007ACC) | ![MongoDB](https://cdn.simpleicons.org/mongodb/47A248) | ![SQLite](https://cdn.simpleicons.org/sqlite/003B57) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <sub>Python</sub> | <sub>Git</sub> | <sub>GitHub</sub> | <sub>VS Code</sub> | <sub>MongoDB</sub> | <sub>SQLite</sub> |
 
-  <a href="https://flutter.dev/" target="_blank" title="Flutter" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.cplusplus.com/" target="_blank" title="C++" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" title="Data Structures & Algorithms" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/code/000000" alt="DSA" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" title="Python" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" title="Git" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://github.com/" target="_blank" title="GitHub" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank" title="Node.js" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://expressjs.com/" target="_blank" title="Express" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" title="React" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.w3schools.com/html/" target="_blank" title="HTML5" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="max-width:70%; max-height:70%; object-fit:contain;" />
-  </a>
-</p>
+| ![Node.js](https://cdn.simpleicons.org/node.js/339933) | ![Express](https://cdn.simpleicons.org/express/000000) | ![React](https://cdn.simpleicons.org/react/61DAFB) | ![Bootstrap](https://cdn.simpleicons.org/bootstrap/7952B3) | ![HTML5](https://cdn.simpleicons.org/html5/E34F26) | ![CSS3](https://cdn.simpleicons.org/css3/1572B6) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <sub>Node.js</sub> | <sub>Express</sub> | <sub>React</sub> | <sub>Bootstrap</sub> | <sub>HTML5</sub> | <sub>CSS3</sub> |
 
 
 
