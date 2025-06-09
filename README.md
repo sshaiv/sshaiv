@@ -10,7 +10,7 @@
 - 💬 Ask me about: **Next.js, Flutter, MySQL, Python, C++, DSA**  
 - 📫 Reach me at: **shaivshraddha@gmail.com**  
 - 📄 Know about my experiences: [Portfolio](https://sshaiv-portfolio3692.netlify.app/)  
-- ⚡ Fun fact: **I think I'm *Loquacious***  
+- ⚡ **Fun fact:** New tech instantly grabs my attention—no matter how different from my skills—and I just *have* to explore it (until I’m off chasing the next one)!
 - ✨ **A quick and curious learner — I love exploring new skills and treat every technology as an exciting hobby to master.**
 
 ---
