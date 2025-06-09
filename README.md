@@ -30,99 +30,82 @@
 
 ### 🛠️ Languages and Tools
 
-<p style={{ display: 'flex', gap: '15px', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center' }}>
+### 🛠️ Languages and Tools
 
-  {/* Next.js */}
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" title="Next.js" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" />
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+  <a href="https://nextjs.org/" target="_blank" title="Next.js" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; background:#fff; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/next.js/000000" alt="Next.js" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Tailwind CSS */}
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" />
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Flutter */}
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" />
+  <a href="https://flutter.dev/" target="_blank" title="Flutter" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* MySQL */}
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" title="MySQL" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" />
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* C++ */}
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer" title="C++" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" />
+  <a href="https://www.cplusplus.com/" target="_blank" title="C++" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* DSA (symbolic code icon) */}
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noopener noreferrer" title="Data Structures & Algorithms" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/code/000000" alt="DSA" />
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" title="Data Structures & Algorithms" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/code/000000" alt="DSA" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Python */}
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />
+  <a href="https://www.python.org/" target="_blank" title="Python" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Git */}
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" title="Git" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" />
+  <a href="https://git-scm.com/" target="_blank" title="Git" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* GitHub */}
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" />
+  <a href="https://github.com/" target="_blank" title="GitHub" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* VS Code */}
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VS Code" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" />
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* MongoDB */}
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* SQLite */}
-  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer" title="SQLite" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" />
+  <a href="https://www.sqlite.org/" target="_blank" title="SQLite" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Node.js */}
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" />
+  <a href="https://nodejs.org/" target="_blank" title="Node.js" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Express */}
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" title="Express" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" />
+  <a href="https://expressjs.com/" target="_blank" title="Express" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* React */}
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" />
+  <a href="https://reactjs.org/" target="_blank" title="React" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* Bootstrap */}
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" title="Bootstrap" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" />
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* HTML5 */}
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer" title="HTML5" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" />
+  <a href="https://www.w3schools.com/html/" target="_blank" title="HTML5" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
 
-  {/* CSS3 */}
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" title="CSS3" style={{ display: 'inline-block', width: 40, height: 40 }}>
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" />
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3" style="display:inline-flex; align-items:center; justify-content:center; width:50px; height:50px; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="max-width:70%; max-height:70%; object-fit:contain;" />
   </a>
-
 </p>
+
 
 
 ### 📊 GitHub Stats
