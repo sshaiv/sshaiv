@@ -17,17 +17,20 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shraddha-shaiv/" target="_blank" title="LinkedIn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:shaivshraddha@gmail.com" target="_blank" title="Email">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" style="object-fit:contain;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/sshaiv/" target="_blank" title="LeetCode">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" style="object-fit:contain;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
+
 
 ---
 
