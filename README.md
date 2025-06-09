@@ -99,7 +99,12 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ---
 
-### 🎉 Fun Fact
+---
 
-The moment I spot a new technology, I dive in headfirst — curiosity-driven and always ready to learn (and sometimes quickly move on to the next shiny thing 😉).
+### 🎯 Future Goals
+
+- Land a role at a top multinational company where I can create meaningful impact  
+- Launch my own startup to bring innovative tech solutions to life  
+- Build a strong personal identity as a passionate developer and community mentor  
+- Keep pushing my limits by mastering new technologies and challenging projects  
 
