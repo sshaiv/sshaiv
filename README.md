@@ -75,16 +75,7 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
   ---
 
-### 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default" alt="Shraddha's GitHub Stats" width="48%" /> &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sshaiv&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="60%" />
-</p>
-
-
+### 📈 GitHub Activity 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sshaiv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Count](https://profile-counter.glitch.me/sshaiv/count.svg)
@@ -93,14 +84,15 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ### 🚀 Featured Projects
 
-- [Next.js Portfolio](https://github.com/sshaiv/nextjs-portfolio) – Modern portfolio website built with Next.js and TailwindCSS  
-- [Flutter Chat App](https://github.com/sshaiv/flutter-chat) – Real-time chat with Firebase backend  
-- [DSA Practice Repo](https://github.com/sshaiv/DSA) – Data Structures & Algorithms solutions in C++ and Python
+- [Next.js Nursingstation](https://github.com/sshaiv/) – Modern portfolio website built with Next.js and TailwindCSS  
+- [Flutter Doctor App](https://github.com/sshaiv/) – Real-time chat with mysql backend  
+- [DSA Practice Repo](https://github.com/sshaiv/) – Data Structures & Algorithms solutions in C++ 
 
 ---
 
 ### 🎯 Currently Learning
 
+- Efficient coding practices
 - Flutter advanced state management  
 - Next.js server components  
 - Deep diving into system design
