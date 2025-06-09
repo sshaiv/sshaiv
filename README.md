@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Shaiv</h1>
-<h3 align="center">A passionate Web - App developer from India</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently work as **Full STACK**Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/sshaiv/](https://github.com/sshaiv/)
 
