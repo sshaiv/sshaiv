@@ -73,4 +73,35 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ---
 
-  
+  ---
+
+### 📈 GitHub Activity & Stats
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sshaiv&theme=react-dark&area=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sshaiv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://profile-counter.glitch.me/sshaiv/count.svg)
+
+---
+
+### 🚀 Featured Projects
+
+- [Next.js Portfolio](https://github.com/sshaiv/nextjs-portfolio) – Modern portfolio website built with Next.js and TailwindCSS  
+- [Flutter Chat App](https://github.com/sshaiv/flutter-chat) – Real-time chat with Firebase backend  
+- [DSA Practice Repo](https://github.com/sshaiv/DSA) – Data Structures & Algorithms solutions in C++ and Python
+
+---
+
+### 🎯 Currently Learning
+
+- Flutter advanced state management  
+- Next.js server components  
+- Deep diving into system design
+
+---
+
+### 🎉 Fun Fact
+
+The moment I spot a new technology, I dive in headfirst — curiosity-driven and always ready to learn (and sometimes quickly move on to the next shiny thing 😉).
+
