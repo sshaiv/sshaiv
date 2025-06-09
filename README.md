@@ -77,7 +77,13 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ### 📈 GitHub Activity & Stats
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sshaiv&theme=react-dark&area=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default" alt="Shraddha's GitHub Stats" width="48%" /> &nbsp;
+  <img src="https://streak-stats.demolab.com?user=sshaiv&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="60%" />
+</p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sshaiv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
