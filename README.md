@@ -1,18 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shraddha Shaiv</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently work as **Full STACK**Developer
+- 🌱 I’m currently work as **Full STACK** Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/sshaiv/](https://github.com/sshaiv/)
 
-- 💬 Ask me about **android applications (Flutter) ,
-- WEB - frontend(HTML , CSS ) , famework(Node.js , Express.js) , backend(MongoDB , SQL) **
+- 💬 Ask me about **Nextjs ,flutter ,mysql, python, C++ Dsa **,
+
 
 - 📫 How to reach me **shaivshraddha@gmail.com**
 
 - 📄 Know about my experiences [https://sshaiv-portfolio3692.netlify.app/](https://sshaiv-portfolio3692.netlify.app/)
 
 - ⚡ Fun fact **I think I'm *Loquacious***
+
+- ### ✨ About Me  
+I'm a Software Developer with a passion for building full-stack applications.  
+**A quick and curious learner — I love exploring new skills and treat every technology as an exciting hobby to master.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
