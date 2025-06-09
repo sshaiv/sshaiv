@@ -9,9 +9,9 @@
 I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer & Software Programmer**.
 
 💡 I’m deeply passionate about:
-- Building full-stack apps using **Next.js, Node.js, and Flutter**
+- Building full-stack apps using **Next.js,  and Flutter**
 - Crafting optimized UIs with **TailwindCSS & Bootstrap**
-- Working with **databases** like MySQL, MongoDB, and SQLite
+- Working with **databases** like MySQL, MongoDB,  SQLite ,firebase
 - Exploring **Python, C++, and DSA** to deepen my logic
 
 🚀 I love picking up new tech—even if it’s far from my stack. Every tool is a new toy!  
@@ -71,7 +71,7 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="60%" />
 </p>
 
-
+---
 ### ☕ Support My Work
 
 <p align="center">
