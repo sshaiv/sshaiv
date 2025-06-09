@@ -9,9 +9,9 @@
 I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer & Software Programmer**.
 
 💡 I’m deeply passionate about:
-- Building full-stack apps using **Next.js,  and Flutter**
+- Building full-stack apps using **Next.js and Flutter**
 - Crafting optimized UIs with **TailwindCSS & Bootstrap**
-- Working with **databases** like MySQL, MongoDB,  SQLite ,firebase
+- Working with **databases** like MySQL, MongoDB, SQLite, Firebase
 - Exploring **Python, C++, and DSA** to deepen my logic
 
 🚀 I love picking up new tech—even if it’s far from my stack. Every tool is a new toy!  
@@ -19,7 +19,6 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 📫 Reach me at: **shaivshraddha@gmail.com**  
 🔗 Know more: [Portfolio](https://sshaiv-portfolio3692.netlify.app/) | [GitHub](https://github.com/sshaiv/)
-
 ---
 
 ### 🤝 Connect with Me
