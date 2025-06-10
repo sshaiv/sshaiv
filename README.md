@@ -58,6 +58,7 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![LeetCode User](https://img.shields.io/badge/LeetCode-sshaiv-orange?style=flat-square&logo=leetcode)
 
 ---
 
@@ -68,6 +69,9 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
   <img src="https://streak-stats.demolab.com?user=sshaiv&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="60%" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats Card" />
 </p>
 
 ---
