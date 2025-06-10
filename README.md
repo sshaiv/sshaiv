@@ -64,10 +64,15 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ### 📊 My Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default&hide_border=true&card_width=400" alt="GitHub Stats" height="200"/> &nbsp;
-  <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&ext=contest&font=Source%20Code%20Pro" alt="LeetCode Stats" height="200"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default&hide_border=true&card_width=400"
+       alt="GitHub Stats"
+       style="height: 160px; width: auto; object-fit: contain;" />
+  <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&ext=contest&font=Source%20Code%20Pro"
+       alt="LeetCode Stats"
+       style="height: 160px; width: auto; object-fit: contain;" />
 </p>
+
 
   ---
 
