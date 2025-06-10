@@ -69,11 +69,6 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
   <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&ext=contest&font=Source%20Code%20Pro" alt="LeetCode Stats" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="60%" />
-</p>
-
-
   ---
 
 ### 📈 GitHub Activity 
@@ -100,8 +95,6 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ---
 
----
-
 ### 🎯 Future Goals
 
 - Land a role at a top multinational company where I can create meaningful impact  
@@ -109,3 +102,7 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 - Build a strong personal identity as a passionate developer and community mentor  
 - Keep pushing my limits by mastering new technologies and challenging projects  
 
+--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="60%" />
+</p>
