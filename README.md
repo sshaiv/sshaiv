@@ -102,7 +102,8 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 - Build a strong personal identity as a passionate developer and community mentor  
 - Keep pushing my limits by mastering new technologies and challenging projects  
 
---
+---
+<h3 align="center">📚 Languages I Use the Most</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" width="45%" />
 </p>
