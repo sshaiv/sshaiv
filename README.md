@@ -103,8 +103,11 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 - Keep pushing my limits by mastering new technologies and challenging projects  
 
 ---
-<h3 align="center">📚 Languages I Use the Most</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" style="width:100%; max-width:600px; height:150px; object-fit:contain;" />
-</p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <h3 style="margin: 0;">📚 Languages I Use the Most</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true"
+       alt="Top Languages"
+       style="height: 150px; max-width: 500px; object-fit: contain;" />
+</div>
+
 
