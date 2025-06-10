@@ -83,9 +83,9 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 
 ### 🚀 Featured Projects
 
-- [Next.js Nursingstation](https://github.com/sshaiv/) – Modern portfolio website built with Next.js and TailwindCSS  
-- [Flutter Doctor App](https://github.com/sshaiv/) – Real-time chat with mysql backend  
-- [DSA Practice Repo](https://github.com/sshaiv/) – Data Structures & Algorithms solutions in C++ 
+- [Next.js Nursingstation](https://github.com/sshaiv?tab=repositories) – Modern portfolio website built with Next.js and TailwindCSS  
+- [Flutter Doctor App](https://github.com/sshaiv?tab=repositories) – Real-time chat with mysql backend  
+- [DSA Practice Repo](https://github.com/sshaiv?tab=repositories) – Data Structures & Algorithms solutions in C++ 
 
 ---
 
