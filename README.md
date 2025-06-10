@@ -105,5 +105,5 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 ---
 <h3 align="center">📚 Languages I Use the Most</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top Languages" style="width:100%; max-width:600px;" />
 </p>
