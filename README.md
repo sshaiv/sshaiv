@@ -73,11 +73,21 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 </p>
 
   ---
-
 ### 📈 GitHub Activity 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sshaiv&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitor Count](https://profile-counter.glitch.me/sshaiv/count.svg)
+<p style="display: flex; align-items: center; gap: 12px;">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=sshaiv&theme=radical" 
+         alt="GitHub Trophy" 
+         style="width: 80px; height: 80px; object-fit: contain;" />
+  </a>
+
+  <img src="https://profile-counter.glitch.me/sshaiv/count.svg" 
+       alt="Visitor Count" 
+       style="width: 80px; height: 80px; object-fit: contain;" />
+
+</p>
 
 ---
 
