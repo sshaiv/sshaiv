@@ -65,21 +65,12 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 ### 📊 My Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sshaiv&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sshaiv&show_icons=true&theme=default&hide_border=true&card_width=400" alt="GitHub Stats" height="200"/> &nbsp;
+  <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&ext=contest&font=Source%20Code%20Pro" alt="LeetCode Stats" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="60%" />
-</p>
-
-<hr/>
-
-<h3 align="center">💡 LeetCode Stats</h3>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sshaiv?theme=light&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats Card" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 
