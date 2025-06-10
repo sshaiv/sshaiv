@@ -103,11 +103,12 @@ I'm currently working at **GSS** (since July 2024) as a **Full Stack Developer &
 - Keep pushing my limits by mastering new technologies and challenging projects  
 
 ---
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: nowrap;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; gap: 16px; flex-wrap: nowrap;">
   <h3 style="margin: 0; white-space: nowrap;">📚 Languages I Use the Most</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshaiv&layout=compact&langs_count=6&theme=default&hide_border=true"
        alt="Top Languages"
        style="height: 150px; width: auto; max-width: 450px; object-fit: contain;" />
 </div>
+
 
 
